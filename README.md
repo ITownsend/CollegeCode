@@ -1,1 +1,2 @@
-# Python Projects from College: CSC 200
+Isaiah Townsend
+-computer guy :/
